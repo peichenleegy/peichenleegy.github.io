@@ -11,14 +11,11 @@
 
 <br>
 <center><img src="images/CNN.webp"/></center>
-<br>
 
 <!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)). -->
-
-
 ---
 ### Codalab Competition: RoBERT for Time Expression Tasks
 
@@ -27,28 +24,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">The release of Google's RoBERT is described as the beginning of a new era in NLP. In this notebook, I used HuggingFace's transformers library to fine-tune the pre-trained RoBERT model for a classification task. Then I combine RoBERT's performance and a baseline model. In the competition, I acquired the best accuracy for different label predictions in the dev data and 3rd in the test data. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art RoBERT model and yield an accuracy rate 40% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
-
----
-### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
-
-<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
-<br>
-<center><img src="images/fb-food-trends.png"></center>
-<br>
-
----
-### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
-
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
-
-<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
-<br>
-<center><img src="images/detect-spam-nlp.png"/></center>
-<br>
 
 ---
 ## Data Science
@@ -76,6 +51,43 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <br>
 
 ---
+
+<!-- ---
+## Filmed by me
+
+[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+
+<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
+<br>
+
+- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
+- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
+- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
+- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
+
+--- -->
+
+<!-- ---
+### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/facebook-detect-food-trends)
+
+<div style="text-align: justify">First I build co-occurence matrices of ingredients from Facebook posts from 2011 to 2015. Then, to identify interesting and rare ingredient combinations that occur more than by chance, I calculate Lift and PPMI metrics. Lastly, I plot time-series data of identified trends to validate my findings. Interesting food trends have emerged from this analysis.</div>
+<br>
+<center><img src="images/fb-food-trends.png"></center>
+<br>
+
+---
+### Detect Spam Messages: TF-IDF and Naive Bayes Classifier
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-spam-nlp.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/detect-spam-messages-nlp/blob/master/detect-spam-nlp.ipynb)
+
+<div style="text-align: justify">In order to predict whether a message is spam, first I vectorized text messages into a format that machine learning algorithms can understand using Bag-of-Word and TF-IDF. Then I trained a machine learning model to learn to discriminate between normal and spam messages. Finally, with the trained model, I classified unlabel messages into normal or spam.</div>
+<br>
+<center><img src="images/detect-spam-nlp.png"/></center>
+<br> 
 ### Predict Breast Cancer with RF, PCA and SVM using Python
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/breast-cancer.html)
@@ -94,20 +106,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">In three-month research and a two-day hackathon, I led a team of four students to discover insights from 6 million records of NYC and Boston government spending data sets and won runner-up prize for the best research poster out of 18 participating colleges.</div>
 <br>
 <center><img src="images/bac2018.JPG"/></center>
-<br>
+<br>-->
 
-<!-- ---
-## Filmed by me
-
-[![View My Films](https://img.shields.io/badge/YouTube-View_My_Films-grey?logo=youtube&labelColor=FF0000)](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-
-<div style="text-align: justify">Besides Data Science, I also have a great passion for photography and videography. Below is a list of films I documented to retain beautiful memories of places I traveled to and amazing people I met on the way.</div>
-<br>
-
-- [Ada Von Weiss - You Regret (Winter at Niagara)](https://www.youtube.com/watch?v=-5esqvmPnHI)
-- [The Weight We Carry is Love - TORONTO](https://www.youtube.com/watch?v=vfZwdEWgUPE)
-- [In America - Boston 2017](https://www.youtube.com/watch?v=YdXufiebgyc)
-- [In America - We Call This Place Our Home (Massachusetts)](https://www.youtube.com/watch?v=jzfcM_iO0FU)
-
---- -->
 <!-- <center>© 2023 Peggy Lee Powered by Jekyll and the Minimal Theme.</center> -->
