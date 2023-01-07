@@ -28,18 +28,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ## Data Science
 
-### Dr. Semmelweis and the Discovery of Handwashing
-
-<!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
-<!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/DiscoveryHandwashing/blob/main/Discovery_Handwashing.ipynb)
-
-<div style="text-align: justify"> I reanalyzed the data that made Semmelweis discover the importance of <em>handwashing</em>.  Comparing the Difference in the mean monthly proportion of deaths due to handwashing. Bootstrap analysis of Semmelweis handwashing data. So, handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a highly effective procedure.</div>
-<br>
-<center><img src="images/credit-risk-webapp????.png"/></center>
-<br>
-
----
 ### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
@@ -50,6 +38,26 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/ames-house-price.jpg"/></center>
 
 ---
+### Graduated Assistant: Data Engineering Course(ISTA 322)
+
+<!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
+<!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/DiscoveryHandwashing/blob/main/Discovery_Handwashing.ipynb)
+
+<div style="text-align: justify"> I reanalyzed the data that made Semmelweis discover the importance of <em>handwashing</em>.  Comparing the Difference in the mean monthly proportion of deaths due to handwashing. Bootstrap analysis of Semmelweis handwashing data. So, handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a highly effective procedure.</div>
+
+<center><img src="images/credit-risk-webapp????.png"/></center>
+
+---
+### Dr. Semmelweis and the Discovery of Handwashing
+
+<!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
+<!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/DiscoveryHandwashing/blob/main/Discovery_Handwashing.ipynb)
+
+<div style="text-align: justify"> I reanalyzed the data that made Semmelweis discover the importance of <em>handwashing</em>.  Comparing the Difference in the mean monthly proportion of deaths due to handwashing. Bootstrap analysis of Semmelweis handwashing data. So, handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a highly effective procedure.</div>
+
+<center><img src="images/credit-risk-webapp????.png"/></center>
 
 <!-- ---
 ## Filmed by me
