@@ -15,11 +15,11 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <center><img src="images/nlp.png"/></center>
 
 ---
-### Detect Non-negative Airline Tweets: BERT for Sentiment Analysis
+### Codalab Competition: RoBERT for Time Expression Tasks
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)]([https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)](https://colab.research.google.com/drive/1FkyewiiSBLAnBOILEKG_KJF4cRSdZZ8h?usp=sharing)
 
-<div style="text-align: justify">The release of Google's BERT is described as the beginning of a new era in NLP. In this notebook I'll use the HuggingFace's transformers library to fine-tune pretrained BERT model for a classification task. Then I will compare BERT's performance with a baseline model, in which I use a TF-IDF vectorizer and a Naive Bayes classifier. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art BERT model and yield an accuracy rate 10% higher than the baseline model.</div>
+<div style="text-align: justify">The release of Google's RoBERT is described as the beginning of a new era in NLP. In this notebook I used the HuggingFace's transformers library to fine-tune pretrained RoBERT model for a classification task. Then I combine RoBERT's performance and a baseline model, in which I combine strengths of different label predictions. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art RoBERT model and yield an accuracy rate 40% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
 
