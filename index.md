@@ -1,6 +1,6 @@
-## Natural Networks
+# Natural Networks
 
-### Capstone: Breast Cancer Diagnosis through Deep Learning models Created by 124 Images from 23 Patients
+## Capstone: Breast Cancer Diagnosis through Deep Learning models Created by 124 Images from 23 Patients
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/Capstone_BreastCancer.git)
 
@@ -8,35 +8,32 @@
 </div>
 
 <center><img src="images/CNN.webp"/></center>
----
 
 <!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)). -->
 
-### Codalab Competition: RoBERT for Time Expression Tasks
+## Codalab Competition: RoBERT for Time Expression Tasks
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1FkyewiiSBLAnBOILEKG_KJF4cRSdZZ8h?usp=sharing)
 
 <div style="text-align: justify">The release of Google's RoBERT is described as the beginning of a new era in NLP. In this notebook, I used HuggingFace's transformers library to fine-tune the pre-trained RoBERT model for a classification task. Then I combine RoBERT's performance and a baseline model. In the competition, I acquired the best accuracy for different label predictions in the dev data and 3rd in the test data. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art RoBERT model and yield an accuracy rate 40% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
----
 
-## Data Science
+# Data Science
 
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+## Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ua-ista-457/graduate-project-pe791006ggy.git)
 
 <div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
 
-<center><img src="images/ames-house-price.jpg"/></center>
+<center><img src="images/ames-house-price???.jpg"/></center>
 
----
-### Graduated Assistant: Data Engineering Course(ISTA 322)
+## Graduated Assistant: Data Engineering Course(ISTA 322)
 
 <!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
 <!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
@@ -46,8 +43,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <center><img src="images/credit-risk-webapp????.png"/></center>
 
----
-### Dr. Semmelweis and the Discovery of Handwashing
+## Dr. Semmelweis and the Discovery of Handwashing
 
 <!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
 <!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
