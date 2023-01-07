@@ -4,7 +4,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/Capstone_BreastCancer.git)
 
-<br></br>
+
 <div style="text-align: justify">I first presented VGG16, VGG19, and ResNet152V2 models with parameters that can be applied to classify histopathology images via 124 training images from 23 patients. The results showed categorizing adipose, fibrous, and other tissues could even be 10% better than experienced pathologists, which is around 80%.
 </div>
 
@@ -24,6 +24,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">The release of Google's RoBERT is described as the beginning of a new era in NLP. In this notebook, I used HuggingFace's transformers library to fine-tune the pre-trained RoBERT model for a classification task. Then I combine RoBERT's performance and a baseline model. In the competition, I acquired the best accuracy for different label predictions in the dev data and 3rd in the test data. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art RoBERT model and yield an accuracy rate 40% higher than the baseline model.</div>
 
 <center><img src="images/BERT-classification.png"/></center>
+
 ---
 
 ## Data Science
@@ -36,7 +37,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
 
 <center><img src="images/ames-house-price???.jpg"/></center>
-<br></br>
+
 ---
 
 ### Graduated Assistant: Data Engineering Course(ISTA 322)
@@ -49,7 +50,6 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <center><img src="images/credit-risk-webapp????.png"/></center>
 
-<br></br>
 ---
 
 ### Dr. Semmelweis and the Discovery of Handwashing
