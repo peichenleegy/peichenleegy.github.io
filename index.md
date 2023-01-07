@@ -12,11 +12,12 @@
 <br>
 <center><img src="images/CNN.webp"/></center>
 
+---
 <!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
 **Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence 
 ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)). -->
----
+
 ### Codalab Competition: RoBERT for Time Expression Tasks
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1FkyewiiSBLAnBOILEKG_KJF4cRSdZZ8h?usp=sharing)
@@ -46,9 +47,8 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ua-ista-457/graduate-project-pe791006ggy.git)
 
 <div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
+
 <center><img src="images/ames-house-price.jpg"/></center>
-<br>
 
 ---
 
