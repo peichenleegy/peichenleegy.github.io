@@ -2,17 +2,19 @@
 ---
 ## Natural Language Processing
 
-### CS224n: Natural Language Processing with Deep Learning
+### Capstone: Breast Cancer Diagnosis through Deep Learning models Created by 124 Images from 23 Patients
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/peichenleegy/Capstone_BreastCancer.git)
+
+<div style="text-align: justify">I first presented VGG16, VGG19, and ResNet152V2 models with parameters that can be applied to classify histopathology images via 124 training images from 23 patients. The results showed categorizing adipose, fibrous, and other tissues could even be 10% better than experienced pathologists, which is around 80%.</div>
+
+<center><img src="images/"/></center>
+
+<!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
+**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence 
+([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)). -->
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)
-
-**Neural Machine Translation:** An NMT system which translates texts from Spanish to English using a Bidirectional LSTM encoder for the source sentence and a Unidirectional LSTM Decoder with multiplicative attention for the target sentence ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Solutions/tree/master/assignments/)).
-
-**Dependency Parsing:** A Neural Transition-Based Dependency Parsing system with one-layer MLP ([GitHub](https://github.com/chriskhanhtran/CS224n-NLP-Assignments/tree/master/assignments/a3)).
-
-<center><img src="images/nlp.png"/></center>
 
 ---
 ### Codalab Competition: RoBERT for Time Expression Tasks
