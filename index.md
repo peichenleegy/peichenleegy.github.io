@@ -8,7 +8,9 @@
 
 <div style="text-align: justify">I first presented VGG16, VGG19, and ResNet152V2 models with parameters that can be applied to classify histopathology images via 124 training images from 23 patients. The results showed categorizing adipose, fibrous, and other tissues could even be 10% better than experienced pathologists, which is around 80%.</div>
 
+<br>
 <center><img src="images/CNN.webp"/></center>
+</br>
 
 <!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
