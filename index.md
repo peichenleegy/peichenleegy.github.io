@@ -25,7 +25,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <center><img src="images/BERT-classification.png"/></center>
 
----
+
 ## Data Science
 
 ### Dr. Semmelweis and the Discovery of Handwashing
