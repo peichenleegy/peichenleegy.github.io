@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Natural Networks
 
 ### Capstone: Breast Cancer Diagnosis through Deep Learning models Created by 124 Images from 23 Patients
