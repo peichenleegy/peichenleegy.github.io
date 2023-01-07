@@ -8,7 +8,7 @@
 
 <div style="text-align: justify">I first presented VGG16, VGG19, and ResNet152V2 models with parameters that can be applied to classify histopathology images via 124 training images from 23 patients. The results showed categorizing adipose, fibrous, and other tissues could even be 10% better than experienced pathologists, which is around 80%.</div>
 
-<center><img src="images/"/></center>
+<center><img src="images/CNN.webp"/></center>
 
 <!-- 
 My complete implementation of assignments and projects in [***CS224n: Natural Language Processing with Deep Learning***](http://web.stanford.edu/class/cs224n/) by Stanford (Winter, 2019).
@@ -23,7 +23,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div style="text-align: justify">The release of Google's RoBERT is described as the beginning of a new era in NLP. In this notebook, I used HuggingFace's transformers library to fine-tune the pre-trained RoBERT model for a classification task. Then I combine RoBERT's performance and a baseline model. In the competition, I acquired the best accuracy for different label predictions in the dev data and 3rd in the test data. The transformers library helps us quickly and efficiently fine-tune the state-of-the-art RoBERT model and yield an accuracy rate 40% higher than the baseline model.</div>
 
-<center><img src="images/CNN.webp"/></center>
+<center><img src="images/BERT-classification.png"/></center>
 
 ---
 ### Detect Food Trends from Facebook Posts: Co-occurence Matrix, Lift and PPMI
