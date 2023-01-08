@@ -54,7 +54,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 <div style="text-align: justify"> I reanalyzed the data that made Semmelweis discover the importance of <em>handwashing</em>.  Comparing the Difference in the mean monthly proportion of deaths due to handwashing. Bootstrap analysis of Semmelweis handwashing data. So, handwashing reduced the proportion of deaths by between 6.7 and 10 percentage points, according to a 95% confidence interval. All in all, it would seem that Semmelweis had solid evidence that handwashing was a highly effective procedure.</div>
 
-<center><img src="images/credit-risk-webapp????.png"/></center>
+<center><img src="images/Screenshot 2020-04-04 at 03.51.08.webp"/></center>
 
 ---
 
