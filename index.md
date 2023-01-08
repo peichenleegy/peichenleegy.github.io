@@ -44,7 +44,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 
 ---
 
-### Graduated Assistant: Data Engineering Course(ISTA 322)
+### Graduated Assistant: Data Engineering Course
 
 <!-- [![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/) -->
 <!-- [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb) -->
