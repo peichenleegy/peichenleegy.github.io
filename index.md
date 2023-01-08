@@ -54,6 +54,7 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 <div style="text-align: justify">This course will be inviting for a wide variety of students from across disciplines, and they will learn how to use industry-standard tools and practices to make large data sets usable for scientists and other decision-makers. From data collection to create big data stores, databases, or systems to make data flow, this course will focus on the practical work needed to prepare big data for analyses across contexts. Students will be introduced to data cleaning, munging, transformation, accessing SQL databases, cloud computing from a Python interface.</div>
 <br>
 <center><img src="images/Screenshot 2020-04-04 at 03.51.08.webp"/></center>
+<br>
 
 ---
 
